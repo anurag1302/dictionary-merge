@@ -1,0 +1,14 @@
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\bin\Debug\netcoreapp3.1\DictionaryMerge.exe
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\bin\Debug\netcoreapp3.1\DictionaryMerge.deps.json
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\bin\Debug\netcoreapp3.1\DictionaryMerge.runtimeconfig.json
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\bin\Debug\netcoreapp3.1\DictionaryMerge.runtimeconfig.dev.json
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\bin\Debug\netcoreapp3.1\DictionaryMerge.dll
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\bin\Debug\netcoreapp3.1\DictionaryMerge.pdb
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.csproj.AssemblyReference.cache
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.GeneratedMSBuildEditorConfig.editorconfig
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.AssemblyInfoInputs.cache
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.AssemblyInfo.cs
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.csproj.CoreCompileInputs.cache
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.dll
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.pdb
+C:\dictionary-merge\DictionaryMerge\DictionaryMerge\obj\Debug\netcoreapp3.1\DictionaryMerge.genruntimeconfig.cache
